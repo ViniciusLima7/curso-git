@@ -36,6 +36,7 @@ namespace TIMESPAN
 
             TimeSpan t = d2.Subtract(d1);
             Console.WriteLine(t);
+            Console.WriteLine("TIMESTAMP OK");
         }
     }
 }
